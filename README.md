@@ -30,6 +30,8 @@
 - Sequelize adalah ORM (Object Relational Mapping) Node JS yang berbasis promise. Sequelize mendukung sebagian besar relational Database seperti MySQL, PostgresQL, MariaDB, SQLite dan Miscrosoft SQL Server.
 - Dengan fitur fitur di Sequelize, kita bisa mengelola dan mengatur data di database kita dengan cepat, dan efisien
 ## Instalasi Sequelize
-> Dengan mengetikan `npm install -g sequelize-cli`
+> Dengan mengetikan `npm install -g sequelize-cli` untuk mengintstall Sequwlize-cli
+> Dengan mengetikkan `npm install --save sequelize` lalu `npm install --save sql` untuk menginstall sequelize
 ## Peserta mampu membuat API Specification
+
 ## Peserta mampu membuat web server dan RESTFul API
